@@ -1,0 +1,27 @@
+﻿<Window x:Class="VirtualDevice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VirtualDevice"
+        mc:Ignorable="d"
+        Title="Virtual Device" Height="386.6" Width="585">
+    <Grid Margin="0,0,0.4,-0.2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="169*"/>
+            <ColumnDefinition Width="145*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="unitOfMeasurementLabel" Content="Unit of Measurement:" HorizontalAlignment="Left" Margin="36,130,0,0" VerticalAlignment="Top" Height="26" Width="124"/>
+        <ComboBox x:Name="unitOfMeasurementComboBox" HorizontalAlignment="Left" Margin="181,130,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0" Height="26">
+            <ComboBoxItem Content="Inches" HorizontalAlignment="Left" Width="118.4"/>
+            <ComboBoxItem Content="Centimeters" HorizontalAlignment="Left" Width="118.4" />
+        </ComboBox>
+        <Label x:Name="statusLabel" Content="Status: Ready" HorizontalAlignment="Left" Margin="55.8,128,0,0" VerticalAlignment="Top" Width="160" Grid.Column="1" Height="43"/>
+        <Button x:Name="startStopButton" Content="Start Collecting Data" HorizontalAlignment="Left" Margin="20,10,0,0" VerticalAlignment="Top" Width="530" Height="98" Click="startStopButton_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="getMostRecentMeasurementButton" Content="Display Most Recent Measurement" HorizontalAlignment="Left" Margin="16,187,0,0" VerticalAlignment="Top" Width="285" Height="27" Click="getMostRecentMeasurementButton_Click"/>
+        <Label x:Name="recentMeasurementLabel" Content="Most Recent Measurement: None" HorizontalAlignment="Left" Margin="16,225,0,0" VerticalAlignment="Top" Width="285" Height="104"/>
+        <Button x:Name="getRawDataButton" Content="Display Raw Data (Newest to Oldest)" HorizontalAlignment="Left" Margin="23.8,187,0,0" VerticalAlignment="Top" Width="215" Height="27" Click="getRawDataButton_Click" Grid.Column="1" />
+        <ListBox x:Name="rawDataListBox" HorizontalAlignment="Left" Height="104" Margin="23.8,225,0,0" VerticalAlignment="Top" Width="215" RenderTransformOrigin="0.514,0.5" Grid.Column="1"/>
+
+    </Grid>
+</Window>
