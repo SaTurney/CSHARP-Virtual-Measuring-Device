@@ -1,0 +1,43 @@
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\bin\Debug\VirtualDevice.exe.config
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\bin\Debug\VirtualDevice.exe
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\bin\Debug\VirtualDevice.pdb
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.csprojResolveAssemblyReference.cache
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\obj\Debug\MainWindow.g.cs
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\obj\Debug\App.g.cs
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice_MarkupCompile.cache
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice_MarkupCompile.lref
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\obj\Debug\MainWindow.baml
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.g.resources
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.Properties.Resources.resources
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.csproj.GenerateResource.Cache
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.exe
+C:\Users\Hp Envy\Desktop\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.pdb
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\bin\Debug\VirtualDevice.exe.config
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.exe
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.pdb
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\bin\Debug\VirtualDevice.exe
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\bin\Debug\VirtualDevice.pdb
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.csprojResolveAssemblyReference.cache
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\obj\Debug\MainWindow.g.cs
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\obj\Debug\App.g.cs
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice_MarkupCompile.cache
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice_MarkupCompile.lref
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\obj\Debug\MainWindow.baml
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.g.resources
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.Properties.Resources.resources
+C:\Users\Hp Envy\Desktop\To Upload\Virtual Measuring Device - edali29\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\bin\Debug\VirtualDevice.exe.config
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\bin\Debug\VirtualDevice.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\bin\Debug\VirtualDevice.pdb
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice_MarkupCompile.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice_MarkupCompile.lref
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.g.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.Properties.Resources.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# II\Virtual Measuring Device\Virtual Measuring Device\VirtualDevice\VirtualDevice\obj\Debug\VirtualDevice.pdb
